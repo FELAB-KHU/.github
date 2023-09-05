@@ -1,12 +1,16 @@
-## Hi there 👋
+# 📊 Finance Engineering Lab at Kyung Hee University
+![Badge](https://img.shields.io/badge/Kyung%20Hee%20University-Finance%20Engineering%20Lab-blue)
 
-<!--
+The Financial Engineering Lab at Kyung Hee University 🏛 delves into the intricate universe of financial markets using the tools of mathematics 🧮, programming 💻, and engineering 🔧. While our core passion 🚀 remains embedded in optimization methods for portfolio management 📈, we never stop expanding our horizons. Armed with prowess in mathematical modeling 📐, computational methodologies 🖥, and rigorous data analysis 📊, we navigate the vast seas of financial research.
 
-**Here are some ideas to get you started:**
+## 🔍 Research Interests:
+- **Portfolio Optimization** 📁
+- **Asset Allocation** 🌐
+- **Factor Analysis** 🔍
+- **Automated Investments** 🤖💼
+- **Financial Data Analysis** 📊🔍
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🤔 Got Questions?
+If you wish to know more about our work or have any queries, feel free to reach out.
+
+[![Follow](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)](https://github.com/FELAB-KHU)
