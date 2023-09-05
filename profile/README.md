@@ -10,7 +10,7 @@ The Financial Engineering Lab at Kyung Hee University 🏛 delves into the intri
 - **Automated Investments** 🤖💼
 - **Financial Data Analysis** 📊🔍
 
-## 🤔 Got Questions?
-If you wish to know more about our work or have any queries, feel free to reach out.
+🤔 Got Questions?
+If you wish to know more about our work or have any queries, feel free to explore our official website felab.khu.ac.kr or reach out directly.
 
 [![Follow](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)](https://github.com/FELAB-KHU)
